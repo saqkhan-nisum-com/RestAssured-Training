@@ -1,0 +1,24 @@
+[INFO ] 2023-12-13 19:29:19.656 [main] UserTests - *****Creating User*****
+[INFO ] 2023-12-13 19:29:23.260 [main] UserTests - *****User Created*****
+[INFO ] 2023-12-13 19:29:23.277 [main] UserTests - *****Reading User Info*****
+[INFO ] 2023-12-13 19:29:24.397 [main] UserTests - *****User Info Displayed*****
+[INFO ] 2023-12-13 19:29:24.403 [main] UserTests - *****Updating User Info*****
+[INFO ] 2023-12-13 19:29:29.719 [main] UserTests - *****User Info Updated*****
+[INFO ] 2023-12-13 19:29:29.724 [main] UserTests - *****Deleting User Info*****
+[INFO ] 2023-12-13 19:29:31.467 [main] UserTests - *****User Info Deleted*****
+[INFO ] 2023-12-13 22:09:05.477 [main] UserTests_prop - *****Creating User*****
+[INFO ] 2023-12-13 22:09:09.424 [main] UserTests_prop - *****User Created*****
+[INFO ] 2023-12-13 22:09:09.443 [main] UserTests_prop - *****Reading User Info*****
+[INFO ] 2023-12-13 22:09:10.462 [main] UserTests_prop - *****User Info Displayed*****
+[INFO ] 2023-12-13 22:09:10.467 [main] UserTests_prop - *****Updating User Info*****
+[INFO ] 2023-12-13 22:09:12.492 [main] UserTests_prop - *****User Info Updated*****
+[INFO ] 2023-12-13 22:09:12.496 [main] UserTests_prop - *****Deleting User Info*****
+[INFO ] 2023-12-13 22:09:13.458 [main] UserTests_prop - *****User Info Deleted*****
+[INFO ] 2023-12-13 22:32:23.247 [main] UserTests_prop - *****Creating User*****
+[INFO ] 2023-12-13 22:32:26.354 [main] UserTests_prop - *****User Created*****
+[INFO ] 2023-12-13 22:32:26.372 [main] UserTests_prop - *****Reading User Info*****
+[INFO ] 2023-12-13 22:32:27.364 [main] UserTests_prop - *****User Info Displayed*****
+[INFO ] 2023-12-13 22:32:27.369 [main] UserTests_prop - *****Updating User Info*****
+[INFO ] 2023-12-13 22:32:29.333 [main] UserTests_prop - *****User Info Updated*****
+[INFO ] 2023-12-13 22:32:29.338 [main] UserTests_prop - *****Deleting User Info*****
+[INFO ] 2023-12-13 22:32:30.830 [main] UserTests_prop - *****User Info Deleted*****
